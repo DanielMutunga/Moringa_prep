@@ -10,8 +10,6 @@
     background-size: cover;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
 }
 .sectionone h1{
     font-style: italic;
@@ -40,6 +38,37 @@
     color: aqua;
     font-size: 30px;
 }
+.sectionone a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: transparent;
+    color: white;
+    border: solid 2px aqua;
+}
+.sectionone a:hover{
+    background-color: aqua;
+    color: #fff;
+}
+.sectionone .button{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.sectionone .banner{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 /* END OF SECTION ONE */
 
 /* START OF SECTION TWO */
@@ -55,7 +84,6 @@
 .sectiontwo .maindiv{
     height: 90%;
     width: 90%;
-    /* background-color: gray; */
 }
 .sectiontwo .first{
     font-size: 20px;
@@ -246,13 +274,14 @@
     margin-left: 10px;
     height: 30px;
     width: 30px;
-    background-color: #fff;
+    background-color: transparent;
+    border: solid 2px aqua;
     padding: 5px;
     border-radius: 50%;
     transition: 50ms;
 }
 .links img:hover{
-    border: solid 2px aqua;
+    border: solid 2px white;
     background-color: transparent; 
 }
 .socialmedia p{
