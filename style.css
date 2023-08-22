@@ -50,8 +50,9 @@
     border: solid 2px aqua;
 }
 .sectionone a:hover{
-    background-color: aqua;
-    color: #fff;
+    background-color: transparent;
+    border: solid 1px white;
+    color: aqua;
 }
 .sectionone .button{
     width: 100%;
@@ -351,5 +352,10 @@
 .sectionfour img{
     height: 120px;
     margin-left: 100px;
+}
+.sectionfour h1{
+    color: aqua;
+    margin-bottom: 50px;
+    margin-left: 9%;
 }
 /* LET'S ENJOY THE WEEKEND */
