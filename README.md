@@ -12,7 +12,7 @@ They say that music food for the soul. As you grow as a programmer, you find tha
 - Add links to their songs especially the ones that are your favorite. 
 - Write an introductory paragraph of the band and why they are your favorite band
 - Make the page as visually appealing as you can with the knowledge you have learnt so far
-- Remember to create a repository on github for your project and to make regular commits as you are building your amazing page. - Once you are satisfied that the site is to your liking publish it to github pages.
+- Remember to create a repository on github for your project and to make regular commits as you are building your amazing page. - Once you are satisfied that the site is to your liking publish it to `github pages.`
 
 ## Tools Used in creation
 
