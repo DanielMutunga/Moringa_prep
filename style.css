@@ -172,12 +172,16 @@
     flex-direction: row;
 }
 .bandmember img{
+    border: solid 5px #fff;
     margin-right: 10px;
     border-radius: 50%;
 }
 .bandmember p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     line-height: 1.3;
+}
+.bandmember p{
+    margin-bottom: 10px;
 }
 /* END OF SECTION TWO */
 
