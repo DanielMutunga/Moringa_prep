@@ -342,6 +342,14 @@
 .sectionfour{
     height: 40vh;
     width: 100%;
-    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+}
+.sectionfour img{
+    height: 120px;
+    margin-left: 100px;
 }
 /* LET'S ENJOY THE WEEKEND */
